@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Social Justice Freewrite"
-categories: 101
+category: 101
 ---
 
 I view social justice as equality on all levels regardless of a person’s social status, that being any defining characteristic of them or their character. This means that one can expect to be treated fairly in any situation and not discriminated against based on factors within or without their control. To me, this is very important because personally, many of my defining characteristics, including but not limited to my race, deviate from what might be considered the “social norm” by many and as a result, might possibly lead to myself being treated differently than others. Social injustice is unfortunately a very real thing in today's world.
